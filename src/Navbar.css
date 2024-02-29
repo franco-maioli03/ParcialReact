@@ -1,0 +1,10 @@
+.navbar {
+  width: 98.7vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+h4 {
+  color: #000000;
+}

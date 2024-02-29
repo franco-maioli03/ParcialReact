@@ -1,0 +1,15 @@
+#root {
+  text-align: center;
+  background-color: grey;
+}
+
+.navbar {
+  background-color: #6e562e;
+  color: #e6e8e6;
+}
+
+.list-container {
+  width: 98vw;
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
